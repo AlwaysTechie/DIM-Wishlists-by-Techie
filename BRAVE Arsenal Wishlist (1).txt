@@ -1,0 +1,208 @@
+title:BRAVE Arsenal Wishlist
+description:Rolls for the 12 weapons coming with Into The Light
+
+// Forbearance - LFG Salvation (pve,god-pve)
+//notes: Quick Launch and High Velocity Rounds will let you unleash Ambitious Assassin and Chain Reaction at unprecedented speed. This role is exactly what you're looking for if you won't LFG for a crafted Raid one or haven't lucked out with a good Undercurrent from the Nightfall. Recommended MW: Blast Radius. tags:pve,god-pve
+dimwishlist:item=568611921&perks=2010801679,2396489472,2489430594
+
+
+// The Mountaintop - The Beast ()
+//notes: The beast returns with an even better perk selection. Overflow is what I have my eye on, but Lead From Gold could be nice too I guess. Ambitious Assassin or Auto-Loading-Holster can work as well, however they're all in the same area. I like Recombination in the second column but there's a ton of great options like One for All or even Adrenaline Junkie maybe. Recommended MW: Velocity.
+dimwishlist:item=568611922&perks=3643424744,469285294,2489430594
+dimwishlist:item=568611922&perks=3643424744,11612903,2489430594
+dimwishlist:item=568611922&perks=3643424744,4049631843,2489430594
+dimwishlist:item=568611922&perks=1556840489,469285294,2489430594
+dimwishlist:item=568611922&perks=1556840489,11612903,2489430594
+dimwishlist:item=568611922&perks=1556840489,4049631843,2489430594
+dimwishlist:item=568611922&perks=3300816228,469285294,2489430594
+dimwishlist:item=568611922&perks=3300816228,11612903,2489430594
+dimwishlist:item=568611922&perks=3300816228,4049631843,2489430594
+
+
+// Edge Transit - World-Breaker (god-pve,pve)
+//notes: If this game had destruction physics, Midtown would be flattened. Envious Assassin means a large magazine next time something needs to be melted, and Explosive Light or Bait and Switch make sure the melt is as hot and quick as lightning. Recommended MW: Velocity. tags:god-pve,pve
+dimwishlist:item=568611923&perks=968510818,3194351027,2489430594
+dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
+
+
+// The Recluse - Pinnacle Predator (god-pvp,pvp)
+//notes: The beast is unleashed and will likely still be a fan-favourite despite SMGs no longer being in the meta. In PvP, Master of Arms or Target Lock are your only reliable damage bumps. For performance assistance, you have Dynamic Sway Reduction and Threat Detector. Hip fire grip is there as well if you want a panic spray option. Recommended MW: Range. tags:god-pvp,pvp
+dimwishlist:item=1050806815&perks=1866048759,3081867624,2489430594
+dimwishlist:item=1050806815&perks=1866048759,365154968,2489430594
+dimwishlist:item=1050806815&perks=1359896290,3081867624,2489430594
+dimwishlist:item=1050806815&perks=1359896290,365154968,2489430594
+dimwishlist:item=1050806815&perks=4071163871,3081867624,2489430594
+dimwishlist:item=1050806815&perks=4071163871,365154968,2489430594
+
+
+// The Recluse - The Curated Creature ()
+//notes: The curated role offers the iconic Feeding Frenzy + Master of Arms combo for a reason. Hits hard and allows for incredible snowballing in a primary weapon.
+dimwishlist:item=1050806815&perks=2779035018,3081867624,2489430594
+
+
+// The Recluse - The Voidling (pve)
+//notes: We just got The Title with a similar role, however that's only during Guardian Games and has a terrible Origin perk. Repulsor Brace and Destabilizing Rounds is available once more, now with a great Origin perk and in the 900RPM category. Recommended MW: Range. tags:pve
+dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
+
+
+// The Recluse - Master of Arms (pve)
+//notes: The classic roll of Feeding Frenzy and Master of Arms is very solid, but now that it can roll with other perks, a few other things can pair nicely with the signature perk. Subsistence can offer longer uptime between reloads, and Threat Detector can give shorter downtime during reload, as well as some smaller buffs. Recommended MW: Range. tags:pve
+dimwishlist:item=1050806815&perks=2779035018,3081867624,2489430594
+dimwishlist:item=1050806815&perks=1820235745,3081867624,2489430594
+dimwishlist:item=1050806815&perks=4071163871,3081867624,2489430594
+
+
+// The Recluse - Reclusive Techie (pve)
+//notes: This weapon may bring back sour memories, but that doesn't mean I won't activate its evil potential once more. Feeding Frenzy, Subsistence, and Threat Detector all offer passive buffs to the flow of the gun. Master of Arms, Desperate Measures, and Frenzy are where you'll get your damage. Mix and match to find your killer combo. Recommended MW: Range. tags:pve
+dimwishlist:item=1050806815&perks=2779035018,3081867624,2489430594
+dimwishlist:item=1050806815&perks=2779035018,2109543898,2489430594
+dimwishlist:item=1050806815&perks=2779035018,4104185692,2489430594
+dimwishlist:item=1050806815&perks=1820235745,3081867624,2489430594
+dimwishlist:item=1050806815&perks=1820235745,2109543898,2489430594
+dimwishlist:item=1050806815&perks=1820235745,4104185692,2489430594
+dimwishlist:item=1050806815&perks=4071163871,3081867624,2489430594
+dimwishlist:item=1050806815&perks=4071163871,2109543898,2489430594
+dimwishlist:item=1050806815&perks=4071163871,4104185692,2489430594
+
+
+// Hung Jury SR4 - Jury's Out (pve)
+//notes: God DAMN this is such a boring pick. 12 iconic weapons and you pick a Scout that was just reprised in S19 and S20. If you really want a primary *kinetic* scout for some reason this is your best bet at least. Kinetic Tremors and Explosive Payload are your reliable options for all you "body shot barons" in Legend content or whatever. Alternatively you have Rewind Rounds and Firefly or Explosive Payload to allow for endless plink plink plinking in your next GM. Recommended MW: Range. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3824105627,2489430594
+dimwishlist:item=1453235079&perks=3891536761,3038247973,2489430594
+dimwishlist:item=1453235079&perks=3418782618,3824105627,2489430594
+dimwishlist:item=1453235079&perks=3418782618,3038247973,2489430594
+
+
+// Falling Guillotine - The Arrival (pve)
+//notes: There are a billion good perks here. Repulsor + Destabilizing, Chain Reaction + Surrounded, it even has Eager Edge!! As long as you don't show up to Crota DPS with Vorpal + Surrounded, you can't go wrong here. Truly up to you. tags:pve
+dimwishlist:item=1815105249&perks=1749209109,3913600130,2489430594
+dimwishlist:item=1815105249&perks=1749209109,2048641572,2489430594
+dimwishlist:item=1815105249&perks=1749209109,3708227201,2489430594
+dimwishlist:item=1815105249&perks=1749209109,2077819806,2489430594
+dimwishlist:item=1815105249&perks=1749209109,31345821,2489430594
+dimwishlist:item=1815105249&perks=776531651,3913600130,2489430594
+dimwishlist:item=1815105249&perks=776531651,2048641572,2489430594
+dimwishlist:item=1815105249&perks=776531651,3708227201,2489430594
+dimwishlist:item=1815105249&perks=776531651,2077819806,2489430594
+dimwishlist:item=1815105249&perks=776531651,31345821,2489430594
+dimwishlist:item=1815105249&perks=2396489472,3913600130,2489430594
+dimwishlist:item=1815105249&perks=2396489472,2048641572,2489430594
+dimwishlist:item=1815105249&perks=2396489472,3708227201,2489430594
+dimwishlist:item=1815105249&perks=2396489472,2077819806,2489430594
+dimwishlist:item=1815105249&perks=2396489472,31345821,2489430594
+dimwishlist:item=1815105249&perks=1546637391,3913600130,2489430594
+dimwishlist:item=1815105249&perks=1546637391,2048641572,2489430594
+dimwishlist:item=1815105249&perks=1546637391,3708227201,2489430594
+dimwishlist:item=1815105249&perks=1546637391,2077819806,2489430594
+dimwishlist:item=1815105249&perks=1546637391,31345821,2489430594
+
+
+// Hammerhead - Commemorative Shark (pve,god-pve)
+//notes: We have Commemoration at home. Fourth Time's The Charm and Killing Tally is the unstoppable combo that you can shred through all content with including Grandmasters. Recommended MW: Handling. tags:pve,god-pve
+dimwishlist:item=1896309757&perks=1354429876,557221067,2489430594
+
+
+// Hammerhead - Blahaj (god-pve,pve)
+//notes: There are so many good options here. Fourth Time's The Charm or even Rewind Rounds for bypassing reloads. Envious Assassin could be viable as well. Killing Tally is incredibly strong in the second column but Onslaught could be VERY fun and strong, as well as the new Desperate Measures for ability uptime.  Recommended MW: Handling. tags:god-pve,pve
+dimwishlist:item=1896309757&perks=1354429876,557221067,2489430594
+dimwishlist:item=1896309757&perks=1354429876,95528736,2489430594
+dimwishlist:item=1896309757&perks=1354429876,2109543898,2489430594
+dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
+dimwishlist:item=1896309757&perks=3418782618,95528736,2489430594
+dimwishlist:item=1896309757&perks=3418782618,2109543898,2489430594
+dimwishlist:item=1896309757&perks=968510818,557221067,2489430594
+dimwishlist:item=1896309757&perks=968510818,95528736,2489430594
+dimwishlist:item=1896309757&perks=968510818,2109543898,2489430594
+
+
+// Blast Furnace - Four Burst Furnace (pve)
+//notes: Pulses aren't as strong as they were during this weapon's heyday, but that doesn't mean it can't still do some work now. Keep Away is your neutral reload/accuracy perk and you have Firefly or One for All if you're looking for damage. As always, Desperate Measures could be useful as well. Recommended MW: Stability. tags:pve
+dimwishlist:item=2372514508&perks=3619207468,3824105627,2489430594
+dimwishlist:item=2372514508&perks=3619207468,2109543898,2489430594
+dimwishlist:item=2372514508&perks=3619207468,4049631843,2489430594
+
+
+// Blast Furnace - BLAST Furnace (pve)
+//notes: Kinetic Tremors + Firefly = putting the BLAST in Blast Furnace. Could be a bit clunky but I know you Kinetic Tremors lovers don't care. Recommended MW: Stability. tags:pve
+dimwishlist:item=2372514508&perks=3891536761,3824105627,2489430594
+
+
+// Blast Furnace - The Furnace of the Crucible (pvp)
+//notes: This thing has the potential to tear shit up. Zen Moment or Perpetual Motion combined with Rapid Hit or Kill Clip give you a couple of classic combinations. Recommended MW: Stability. tags:pvp
+dimwishlist:item=2372514508&perks=2387244414,247725512,2489430594
+dimwishlist:item=2372514508&perks=2387244414,1015611457,2489430594
+dimwishlist:item=2372514508&perks=1428297954,247725512,2489430594
+dimwishlist:item=2372514508&perks=1428297954,1015611457,2489430594
+
+
+// Elsie's Rifle - Elsie's Falcon (god-pve)
+//notes: Void gang rise up. Repulsor Brace + Destabilizing Rounds is a match made in heaven and I can't wait to have it on something that hits harder than an SMG but isn't a cursed 140 Void hand cannon or Age Old Bond. Recommended MW: Stability. tags:god-pve
+dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594
+
+
+// Elsie's Rifle - No Time To Reload (pve)
+//notes: The new Desperate Measures perk combined with Rewind Rounds should result in big damage with little downtime. Recommended MW: Stability. tags:pve
+dimwishlist:item=2372514509&perks=3418782618,2109543898,2489430594
+
+
+// Elsie's Rifle - Shaxx's Rifle (pvp)
+//notes: I know No Time to Explain is a pocket pick for many crucible warriors, as was the Stranger's Rifle in D1, so if this sees similar spotlight I'd keep my eye out for a Keep Away + Kill Clip to try some day. Recommended MW: Stability. tags:pvp
+dimwishlist:item=2372514509&perks=3619207468,1015611457,2489430594
+
+
+// Midnight Coup - Midnight Fireworks (pve)
+//notes: Celebrate with a light show this New Year's Eve. Firefly or Explosive Payload combine with Kinetic Tremors for the maximum boom a kinetic primary could offer. Recommended MW: Handling, or Range with a mod like Quick Access Sling, Sprint Grip, etc. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+
+
+// Midnight Coup - Kate's Selected (pve)
+//notes: Midnight Coup is my favourite returning weapon, and I'll be chasing it ASAP. Firefly or Explosive Payload make for a hard hitting workhorse weapon, and Desperate Measures or Rampage can give even more kick for higher level content. If you're looking for faster reload, there's Outlaw and Frenzy in the first or second column respectively. Recommended MW: Handling, or Range with a mod like Quick Access Sling, Sprint Grip, etc. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3824105627,3425386926,2489430594
+dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594
+dimwishlist:item=2763843898&perks=3038247973,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3038247973,3425386926,2489430594
+dimwishlist:item=2763843898&perks=3038247973,4104185692,2489430594
+dimwishlist:item=2763843898&perks=1168162263,2109543898,2489430594
+dimwishlist:item=2763843898&perks=1168162263,3425386926,2489430594
+dimwishlist:item=2763843898&perks=1168162263,4104185692,2489430594
+
+
+// Midnight Coup - Leviathan's Selected ()
+//notes: Outlaw Rampage. The original Godroll back in the day. Recommended MW: Handling, or Range with a mod like Quick Access Sling, Sprint Grip, etc.
+dimwishlist:item=2763843898&perks=1168162263,3425386926,2489430594
+
+
+// Midnight Coup - Shaxx's Coup (pvp)
+//notes: If you like Austringer, you should try this out with Outlaw or Moving Target in the first column, and Opening Shot or Rampage in the second. Recommended MW: Handling, or Range with a mod like Quick Access Sling, Sprint Grip, etc. tags:pvp
+dimwishlist:item=2763843898&perks=1168162263,47981717,2489430594
+dimwishlist:item=2763843898&perks=1168162263,3425386926,2489430594
+dimwishlist:item=2763843898&perks=588594999,47981717,2489430594
+dimwishlist:item=2763843898&perks=588594999,3425386926,2489430594
+
+
+// Luna's Howl - Magnificent Moon ()
+//notes: The best perk combo with the signature Magnificent Howl. Encore is a safe bet, but I could see Heal Clip maybe working too. Recommended MW: Range.
+dimwishlist:item=2763843899&perks=1195158366,2720533289,2489430594
+dimwishlist:item=2763843899&perks=3017780555,2720533289,2489430594
+
+
+// Luna's Howl - Pinnacle Precision (pvp)
+//notes: I'm not a Precision Instrument user myself but if you're one of those types in PvP, here's the 140 version of Igneous. Eye of the Storm or Encore are the only things I can see being that useful. Recommended MW: Range. tags:pvp
+dimwishlist:item=2763843899&perks=699525795,555281244,2489430594
+dimwishlist:item=2763843899&perks=1195158366,555281244,2489430594
+
+
+// Luna's Howl - Luna's Bane (pve)
+//notes: If you don't have a Zaouli's Bane crafted, this could make an alright replacement. Incandescent is a given, but Desperate Measures could be fun as well. Subsistence offers a nice alternative to Zaouli's, but I can't see it playing nice with Magnificent Howl. Recommended MW: Stability or Handling. tags:pve
+dimwishlist:item=2763843899&perks=1820235745,4293542123,2489430594
+dimwishlist:item=2763843899&perks=1820235745,2109543898,2489430594
+
+
+// Succession - The Descendant (pve,god-pve)
+//notes: If you don't have this crafted, you're always looking for Reconstruction. Nothing else in the first column is worth taking with only 3-4 rounds in the magazine. The second column offers Vorpal or Recombination if you want to try out one of Deep Stone Crypt's signature perks. A hard-hitting Kinetic weapon perfect for dungeons and raids. Recommended MW: Stability. tags:pve,god-pve
+dimwishlist:item=3612338554&perks=1523832109,1546637391,2489430594
+dimwishlist:item=3612338554&perks=1523832109,469285294,2489430594
+
+
