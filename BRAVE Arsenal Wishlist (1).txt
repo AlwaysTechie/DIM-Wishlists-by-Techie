@@ -23,7 +23,7 @@ dimwishlist:item=568611922&perks=3300816228,4049631843,2489430594
 //notes: If this game had destruction physics, Midtown would be flattened. Envious Assassin means a large magazine next time something needs to be melted, and Explosive Light or Bait and Switch make sure the melt is as hot and quick as lightning. Recommended MW: Velocity. tags:god-pve,pve
 dimwishlist:item=568611923&perks=968510818,3194351027,2489430594
 dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
-
+dimwishlist:item=568611923&perks=981914802,3373736292,3300816228,3194351027
 
 // The Recluse - Pinnacle Predator (god-pvp,pvp)
 //notes: The beast is unleashed and will likely still be a fan-favourite despite SMGs no longer being in the meta. In PvP, Master of Arms or Target Lock are your only reliable damage bumps. For performance assistance, you have Dynamic Sway Reduction and Threat Detector. Hip fire grip is there as well if you want a panic spray option. Recommended MW: Range. tags:god-pvp,pvp
